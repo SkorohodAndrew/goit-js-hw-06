@@ -1,0 +1,9 @@
+.gallery{
+    background-color: aqua;
+    display: inline-flex;
+}
+
+.foto{
+    margin-right: 30px;
+    list-style: none;
+}
