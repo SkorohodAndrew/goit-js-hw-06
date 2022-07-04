@@ -13,9 +13,9 @@ const ElementsEl = document.querySelectorAll('.item ul');
 
 const firstEl = 
     console.log('Category:', categoryEl[0].textContent)
-console.log('Elements:', ElementsEl[0].children.length);
+    console.log('Elements:', ElementsEl[0].children.length);
 
-    const secondEl = 
+const secondEl = 
     console.log('Category:', categoryEl[1].textContent)
     console.log('Elements:', ElementsEl[1].children.length);
 
